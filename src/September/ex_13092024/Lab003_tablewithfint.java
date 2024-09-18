@@ -1,6 +1,6 @@
 package September.ex_13092024;
 
-public class Lab003_tablewithfstring {
+public class Lab003_tablewithfint {
     public static void main(String[] args) {
         int num=10;
         System.out.printf("%d * %d = %d", num, 1, num*1 );
